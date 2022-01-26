@@ -5,7 +5,7 @@ print(3.14)
 print(1000)
 print(5+8)
 print(2*8)
-print(3*(4+3))
+print(3*(4+3)) 
 
 print("문자형 --------")
 print('풍선')
