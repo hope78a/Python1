@@ -1,0 +1,16 @@
+파이썬 설치 : https://www.python.org/downloads/
+ - 루트에 설치  C:\Python310,  PATH 추가
+
+Visual Studio Code 설치 : https://code.visualstudio.com/
+ - 확장 : Python 설치
+ - 한국어 팩 설치
+ - 파일 - 폴더 열기 : D:\Dropbox\Python
+ - 실행 - 디버깅 - 파이썬 3.10 선택
+ - Create as launch.json 파일 생성 -> 향후 자동 컴파일 환경 설정 됨. (F5 키로 실행 됨.)
+
+나도 코딩 강의 : https://www.youtube.com/watch?v=kWiCuklohdY
+설치 환경 설정 : https://nadocoding.tistory.com/4
+자주 묻는 질문 : https://nadocoding.tistory.com/16
+VSCODE 환경 설정 : https://tttsss77.tistory.com/206
+
+추가사항 표시....
