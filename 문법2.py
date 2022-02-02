@@ -25,6 +25,15 @@ print(randint(1, 45))    #1~45 숫자
 date = randrange(4,28)    #연습문제
 print("오프라인 스터디 모임 날짜는 매월 " + str(date) + "일로 선정되었습니다.")
 
+sentence1 = "나는 소년입니다"
+print(sentence1)
+sentence2 = "파이썬은 쉬워요"
+print(sentence2)
+sentence3 = """
+나는 소년이고,
+파이썬은 쉬워요
+"""
+print(sentence3)
 
 # https://www.youtube.com/watch?v=kWiCuklohdY
-# 강의 47분까지 청취
+# 강의 48분까지 시청
